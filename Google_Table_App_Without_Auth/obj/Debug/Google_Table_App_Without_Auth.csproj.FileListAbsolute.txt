@@ -1,0 +1,27 @@
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\client_secret.json
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google_Table_App_Without_Auth.exe.config
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google_Table_App_Without_Auth.exe
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google_Table_App_Without_Auth.pdb
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.Core.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\System.Net.Http.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.xml
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.Core.xml
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\obj\Debug\Google_Table_App_Without_Auth.csprojResolveAssemblyReference.cache
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\obj\Debug\Google_Table_App_Without_Auth.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\obj\Debug\Google_Table_App_Without_Auth.exe
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\obj\Debug\Google_Table_App_Without_Auth.pdb
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\My Project-a7dcaa62bcae.json
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\Google_Table_App_Without_Auth\Google_Table_App_Without_Auth\bin\Debug\key.p12
